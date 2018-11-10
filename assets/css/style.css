@@ -26,7 +26,7 @@
 }
 
 .headerFont {
-    font-family: Georgia, 'Times New Roman', Times, serif';
+    font-family: Georgia, 'Times New Roman', Times, serif'
 }
 
 .navMenu {
@@ -154,7 +154,9 @@ textarea {
 }
 
 @media screen and (max-width:980px){
-
+/* I wasn't sure what to put here because the initial page was set up for
+these dimensions. In the future I might start at a medium sized dimension and 
+adjust to a bigger and smaller version */
 }
 
 @media screen and (max-width:768px){
